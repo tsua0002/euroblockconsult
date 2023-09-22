@@ -4,6 +4,8 @@
 To purpose solutions to blockchain entrepreneurs, we have to give right questions for entrepreneurs.
 
 
+[Slides of the project](./docs/EuroBlock_Consult.pdf)
+
 **Context** : I have a project in blockchain which involves compliance or KYC. For example real estate tokenisation. You want that your project fits with European regulation. 
 As a long term vision project leader, you want to build on the next european standard. 
 
