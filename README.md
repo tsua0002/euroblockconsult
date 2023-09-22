@@ -12,12 +12,15 @@ As a long term vision project leader, you want to build on the next european sta
 
 European Union built in 2018, (find initial partnerships), European Blockchain Partnership (EBP) in order to manage and give a voice at every members about European Blockchain Projects.
 
-**Diagram : Board and members**
+**Board and members**
+
+![EBP Board](./assets/EBP_board.png)
 
 EBP has fastly propose to build a Blockchain Infrastructure available for every member countries. This is named EBSI (European Blockchain Service Infrastructure). It provides : nodes, blockchains and services which can be needed to deploy projects.
 
+![Nodes](./assets/ebsi_nodes.png)
 
-Technically, EBSI is running under [Hyperledger](LINK) with more than 40 nodes already deployed in Europe. 
+Technically, EBSI is running under [Hyperledger](https://www.hyperledger.org/) with more than 40 nodes already deployed in Europe. 
 
 Basically there are two blockchains : one permissioned decentralised and one private. 
 Our main focus today will be on permissioned one because of DID (Decentralised european ID) will be available on it.
@@ -33,7 +36,7 @@ As the web3 ecosystem, the EU tools are still under development.
 
 
 One of the easiest way to move on EBSI soon is to integrate actual funded projects. 
-There are tools already available in Open-Source [Github funded projects](LINK).
+There are tools already available in Open-Source [Github funded projects]().
 
 
 
