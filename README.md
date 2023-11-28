@@ -62,7 +62,7 @@ A description of the IOTA technology is available on their [IOTA Wiki](https://w
 
 IOTA are also the only know protocol compare to ChromaWay and Billon group, which seems more opportunist than technology oriented. Billion group is making advertising on their front page ! 
 
-
+[Research Papers | IOTA](https://www.iota.org/foundation/research-papers)
 
 
 # FAQ 
