@@ -72,7 +72,19 @@ IOTA are also the only know protocol compare to ChromaWay and Billon group, whic
 For now grants to integrate EBSI technology are closed until european elections but it can be re opened after 
 
 
+# Notes 📝
 
+## Wallet 
+
+Standards: [EUDI arf](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/1.1.0/arf/)
+[EudiWalletConsortium](https://eudiwalletconsortium.org/)
+
+[ForkBomb solutions](https://forkbomb.solutions/) who is building with [ForkBombEU](https://github.com/ForkbombEu/)
+### Applications
+
+[didRoom](https://didroom.com/)
+[didRoom | APK](https://github.com/ForkbombEu/wallet)
+[didRoom | docs](https://didroom.com/get_started.html)
 
 
 
